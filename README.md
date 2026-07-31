@@ -228,9 +228,15 @@ Designed interactive reports using:
 > Add your dashboard screenshot inside the **Images** folder.
 <img width="1327" height="745" alt="Dashboard1" src="https://github.com/user-attachments/assets/b6391f43-9b82-4989-a7eb-948600a48533" />
 
+---
+
 <img width="1336" height="742" alt="Dashboard2" src="https://github.com/user-attachments/assets/7c48caad-1b23-4628-82f8-45764b19ef17" />
 
+---
+
 <img width="1330" height="747" alt="Dashboard3" src="https://github.com/user-attachments/assets/67309e57-75e6-429a-ac93-be40e643f50d" />
+
+---
 
 <img width="1331" height="750" alt="Dashboard4" src="https://github.com/user-attachments/assets/277aa81c-13e6-4827-8dea-2c1869923a7f" />
 
